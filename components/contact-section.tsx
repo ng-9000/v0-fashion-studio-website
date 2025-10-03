@@ -115,7 +115,7 @@ export function ContactSection() {
             {/* Map */}
             <div className="relative aspect-video overflow-hidden rounded-lg bg-muted">
               <img
-                src="/placeholder.svg?height=400&width=600"
+                src="/Gemini_Generated_Image_2z81b2z81b2z81b2.png"
                 alt="Studio Location"
                 className="w-full h-full object-cover"
               />
